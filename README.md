@@ -1,6 +1,9 @@
 # Windows 10 button hover effect
 Windows 10 button hover effect using HTML, CSS, and vanilla JS
 
+You can try this site in your browser by visiting any of the url mentioned below:
+- `Surge URL` : [https://win-btn-hover-effect-by-shahid.surge.sh/](https://win-btn-hover-effect-by-shahid.surge.sh/)
+- `GitHub Page URL` : [https://syedshahidashiqali.github.io/windows-button-hover-effect/](https://syedshahidashiqali.github.io/windows-button-hover-effect/)
 # Observations
 <ol>
   <li>A spotlight that follows the cursor inside the element.</li>
