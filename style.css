@@ -17,3 +17,17 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.win-grid {
+    border: 1px solid white;
+    display: grid;
+    /* no of cols and width of cols in grid */
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
+    padding: 5rem;
+    /* NOT WORKING PROPS */
+    /* letter-spacing: 2px; */
+    /* color: white; */
+    /* align-items: stretch; */
+    /* text-align: center; */
+}
