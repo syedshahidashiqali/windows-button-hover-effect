@@ -31,3 +31,14 @@ body {
     /* align-items: stretch; */
     /* text-align: center; */
 }
+
+.win-btn {
+    padding: 2rem;
+    border: 1px solid transparent;
+    /* NOT WORKING PROPS */
+    /* border: none; */
+    /* border-radius: 0px; */
+    /* text-align: center; */
+    /* background: black; */
+    /* color: white; */
+}
